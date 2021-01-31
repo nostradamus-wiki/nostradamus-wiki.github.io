@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Nostradamus Wiki
-email: jcoenep@hotmail.com
+email: nostradamus@x-citizen.com
 description: >
   Journal politique impartial, <br>
   Par Mr. P. Marat auteur de l'Offrande a la patrie, <br>
