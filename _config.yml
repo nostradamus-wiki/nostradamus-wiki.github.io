@@ -29,7 +29,7 @@ google_analytics: UA-101394056-1
 
 # SEO
 twitter:
-  username: jdatap
+  username: citizen_wiki
 
 logo: /assets/logo.png
 
@@ -39,7 +39,7 @@ facebook:
  app_id: 101766790448070
 
 social:
-  name: John Coene
+  name: x-citizen
   links:
     - https://twitter.com/jdatap
     - https://www.linkedin.com/in/johncoene
