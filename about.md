@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-* 1531:	In 1531 Nostradamus was invited by Jules-César Scaliger, a leading Renaissance scholar, to come to Agen.
+* 1531:	In 1531 Nostradamus was invited by Jules-César Scaliger, a leading Renaissance scholar, to come to *Agen*.
 
 * 1534:	In 1534 his wife and children died, presumably from the plague.
 
@@ -12,7 +12,7 @@ permalink: /about/
 
 * 1550:	The Almanacs, by far the most popular of his works, were published annually from 1550 until his death.
 
-* 1561:	His brief imprisonment at Marignane in late 1561 was solely because he had violated a recent royal decree by publishing his 1562 almanac without the prior permission of a bishop.
+* 1561:	His brief imprisonment at *Marignane* in late 1561 was solely because he had violated a recent royal decree by publishing his 1562 almanac without the prior permission of a bishop.
 
 * 1566:	By 1566, Nostradamus's gout, which had plagued him painfully for many years and made movement very difficult, turned into edema.
 
