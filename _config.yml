@@ -33,7 +33,7 @@ twitter:
 
 logo: /assets/logo.png
 
-lang: fr
+lang: eng
 
 facebook:
  app_id: 101766790448070
@@ -44,7 +44,7 @@ social:
     - https://twitter.com/jdatap
     - https://www.linkedin.com/in/johncoene
     - https://plus.google.com/109009224717674019651
-    - https://github.com/JohnCoene
+    - https://github.com/nostradamus-wiki
 
 # Build settings
 exclude: README.md
