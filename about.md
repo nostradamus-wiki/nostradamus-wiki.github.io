@@ -4,21 +4,26 @@ title: About
 permalink: /about/
 ---
 
-Marat is heavily inspired by [L'Ami du peuple](https://en.wikipedia.org/wiki/L%27Ami_du_peuple), a newspaper written by [Jean-Paul Marat](https://en.wikipedia.org/wiki/Jean-Paul_Marat) during the French Revolution, and thus may not be used to promote any form of totalitarianism and should rather be used to advance democracy and revive the Age of Reason.
+1531:	
+In 1531 Nostradamus was invited by Jules-César Scaliger, a leading Renaissance scholar, to come to Agen.
 
-Marat is fully responsive, light and fast.
+1534:	
+In 1534 his wife and children died, presumably from the plague.
 
-1. Adapt the \_config.yml file
-2. Replace/Delete the posts
-3. Change this page: about.md
-4. Change or add your links in the nav.yml file located in the \_data folder
-5. Replace favicon.ico in root folder
-6. Customise the 404.md page in the root directory
-7. Enlighten the masses!
+1534:	
+Nostradamus married Henriette d'Encausse in 1534; their marriage lasted 3 years till 1537.
 
-Plugins:
+1550:	
+The Almanacs, by far the most popular of his works, were published annually from 1550 until his death.
 
-Marat includes the following plugins.
+1561:	
+His brief imprisonment at Marignane in late 1561 was solely because he had violated a recent royal decree by publishing his 1562 almanac without the prior permission of a bishop.
 
-* [jekyll-roman](https://github.com/paulrobertlloyd/jekyll-roman)
-* [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
+1566:	
+By 1566, Nostradamus's gout, which had plagued him painfully for many years and made movement very difficult, turned into edema.
+
+Themes by: 
+
+* [John Coene](https://github.com/JohnCoene)
+
+<!-- 5. Replace favicon.ico in root folder -->
