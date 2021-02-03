@@ -2,7 +2,7 @@
 layout: post
 title: Perface
 permalink: /perface/
-author: Jean-Paul Marat
+author: Nostradamus
 date:   1555-03-01
 category: Les Prophéties
 keywords: perface
