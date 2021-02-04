@@ -4,8 +4,7 @@ title:  "Century X Quatrain 100"
 author: Nostradamus
 date:   1557-03-14
 category: centuries
-keywords: England
-tag: [England,Lusitains]
+tag: England
 ---
 
 The great empire will be for England, 
