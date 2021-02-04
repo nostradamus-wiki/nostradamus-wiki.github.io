@@ -1,6 +1,4 @@
 social:
-  - title: Home
-    href: "/"
   - title: Preface
     href: "/perface"
   - title: Epistle to Henry II
@@ -9,5 +7,4 @@ social:
     href: "https://www.nostradamus.wiki"
   - title: Twitter
     href: "https://twitter.com/citizen_wiki"
-  - title: About
-    href: "/about"
+

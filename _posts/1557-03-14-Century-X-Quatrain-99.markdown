@@ -4,7 +4,7 @@ title:  "Century X Quatrain 99"
 author: Nostradamus
 date:   1557-03-14
 category: centuries
-keywords: [ 'wolf', 'lion', 'ox' 'ass', 'deer', 'mastiffs' ]
+keywords: [ 'wolf', 'lion', 'ox', 'ass', 'deer', 'mastiffs' ]
 ---
 
 At the end the wolf, the lion, ox & the ass, 
