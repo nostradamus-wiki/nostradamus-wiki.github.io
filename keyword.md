@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: error
 title: Keywords
 permalink: /keyword/
 ---
 
-# Categories
+# Keywords
 
 ---
 
