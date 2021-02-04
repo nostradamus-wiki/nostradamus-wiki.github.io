@@ -7,4 +7,10 @@ category: centuries
 keywords: confusion universal monster
 tag: confusion universal monster
 ---
-For the merry maid the bright splendor  Will shine no more long time will be without salt:  With merchants, bullies, wolves odious,  All confusion universal monster.
+For the merry maid the bright splendor
+
+Will shine no more long time will be without salt:
+
+With merchants, bullies, wolves odious,
+
+All confusion universal monster.
