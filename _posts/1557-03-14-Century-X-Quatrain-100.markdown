@@ -2,7 +2,7 @@
 layout: post
 title:  "Century X Quatrain 100"
 author: Nostradamus
-date:   1557-03-14
+date:   1557-03-14  00:00:00
 category: centuries
 keywords: England
 ---
