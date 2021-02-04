@@ -4,7 +4,7 @@ title: Perface
 permalink: /perface/
 author: Nostradamus
 date:   1555-03-01
-category: Les Prophéties
+category: centuries
 keywords: perface
 ---
 # Preface

@@ -4,7 +4,7 @@ title:  "Epistle to Henry II"
 permalink: /henry-II/
 author: Nostradamus
 date:   1558-06-27
-category: Les Prophéties
+category: centuries
 keywords: epistle, Henry II
 ---
 
