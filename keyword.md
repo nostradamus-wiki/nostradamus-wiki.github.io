@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: keyword
 title: Keywords
 permalink: /keyword/
 ---
