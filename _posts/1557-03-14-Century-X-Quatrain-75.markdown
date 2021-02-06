@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 75"
 author: Nostradamus
 date:   1557-03-14  00:00:25
-category: centuries
+category: to be proved
 keywords: Hermes Asia Europe
 ---
 *Long awaited he will never return*  
