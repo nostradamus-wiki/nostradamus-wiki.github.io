@@ -2,7 +2,7 @@
 layout: post
 title:  "Century X Quatrain 75"
 author: Nostradamus
-date:   1557-03-14  00:00:15
+date:   1557-03-14  00:00:25
 category: centuries
 keywords: Hermes Asia Europe
 ---
