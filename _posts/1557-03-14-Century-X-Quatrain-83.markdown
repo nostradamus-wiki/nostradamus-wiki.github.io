@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 83"
 author: Nostradamus
 date:   1557-03-14  00:00:17
-category: centuries
+categories: century x
 keywords: Ghent
 ---
 The signal to give battle will not be given,  

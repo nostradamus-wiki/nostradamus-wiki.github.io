@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 93"
 author: Nostradamus
 date:   1557-03-14  00:00:07
-category: centuries
+categories: century x
 keywords: Beaucaire Arles
 ---
 The new bark will take trips,  

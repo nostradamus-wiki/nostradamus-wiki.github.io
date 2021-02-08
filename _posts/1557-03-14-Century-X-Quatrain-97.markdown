@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 97"
 author: Nostradamus
 date:   1557-03-14  00:00:03
-category: centuries
+categories: century x
 keywords: Barbarians
 ---
 Triremes full of captives of every age,  

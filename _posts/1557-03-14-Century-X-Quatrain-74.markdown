@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 74"
 author: Nostradamus
 date:   1557-03-14  00:00:26
-category: centuries
+categories: century x
 keywords: "great millennial age"
 ---
 The year of the great seventh number accomplished,  

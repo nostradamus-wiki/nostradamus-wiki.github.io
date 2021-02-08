@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 73"
 author: Nostradamus
 date:   1557-03-14  00:00:27
-category: centuries
+categories: century x
 keywords: Jovialist 
 ---
 The present time together with the past  

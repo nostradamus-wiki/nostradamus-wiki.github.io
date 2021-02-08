@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 89"
 author: Nostradamus
 date:   1557-03-14  00:00:11
-category: centuries
+categories: century x
 keywords: times
 ---
 The walls will be converted from brick to marble,  

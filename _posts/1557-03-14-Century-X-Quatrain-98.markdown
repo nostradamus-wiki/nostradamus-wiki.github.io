@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 98"
 author: Nostradamus
 date:   1557-03-14  00:00:02
-category: centuries
+categories: century x
 keywords: "confusion universal monster"
 ---
 For the merry maid the bright splendor  

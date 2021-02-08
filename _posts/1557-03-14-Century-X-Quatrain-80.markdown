@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 80"
 author: Nostradamus
 date:   1557-03-14  00:00:20
-category: centuries
+categories: century x
 keywords: "great gates of brass"
 ---
 In the realm the great one of the great realm reigning,  

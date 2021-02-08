@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 77"
 author: Nostradamus
 date:   1557-03-14  00:00:23
-category: centuries
+categories: century x
 keywords: Quirites Corsairs
 ---
 Thirty adherents of the order of 'Quirites'  

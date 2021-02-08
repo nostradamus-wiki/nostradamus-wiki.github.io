@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 72"
 author: Nostradamus
 date:   1557-03-14  00:00:28
-category: proved
+categories: century x
 keywords: 1999 "King of Terror" "King of the Mongols" Mars
 ---
 **The year 1999, seventh month,**  

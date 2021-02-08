@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 76"
 author: Nostradamus
 date:   1557-03-14  00:00:24
-category: centuries
+categories: century x
 keywords: Senate
 ---
 The great Senate will ordain the triumph  

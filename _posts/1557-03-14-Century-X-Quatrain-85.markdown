@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 85"
 author: Nostradamus
 date:   1557-03-14  00:00:15
-category: centuries
+categories: century x
 keywords: tribune
 ---
 The old tribune on the point of trembling,  

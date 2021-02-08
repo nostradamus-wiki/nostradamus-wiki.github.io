@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 87"
 author: Nostradamus
 date:   1557-03-14  00:00:13
-category: centuries
+categories: century x
 keywords: Nice Antibes
 ---
 A Great King will come to take port near Nice,  

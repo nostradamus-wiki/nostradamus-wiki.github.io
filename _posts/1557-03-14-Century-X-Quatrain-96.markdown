@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 96"
 author: Nostradamus
 date:   1557-03-14  00:00:04
-category: centuries
+categories: century x
 keywords: Adaluncatif
 ---
 The Religion of the name of the seas will win out  

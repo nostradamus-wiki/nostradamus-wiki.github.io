@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 70"
 author: Nostradamus
 date:   1557-03-14  00:00:30
-category: centuries
+categories: century x
 keywords: eye Reggio
 ---
 Through an object the eye will swell very much,  

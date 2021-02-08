@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 86"
 author: Nostradamus
 date:   1557-03-14  00:00:14
-category: centuries
+categories: century x
 keywords: Europe Babylon Aquilon 
 ---
 Like a griffin will come the King of Europe,  

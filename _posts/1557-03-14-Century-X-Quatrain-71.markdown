@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 71"
 author: Nostradamus
 date:   1557-03-14  00:00:29
-category: centuries
+categories: century x
 keywords: freeze Thursday honor
 ---
 The earth and air will freeze a very great sea,  

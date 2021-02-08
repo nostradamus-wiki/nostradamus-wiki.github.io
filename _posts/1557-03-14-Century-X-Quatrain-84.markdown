@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 84"
 author: Nostradamus
 date:   1557-03-14  00:00:16
-category: centuries
+categories: century x
 keywords: "illegitimate girl"
 ---
 The illegitimate girl so high, high, not low,  

@@ -3,7 +3,7 @@ layout: post
 title:  "Century X Quatrain 92"
 author: Nostradamus
 date:   1557-03-14  00:00:08
-category: centuries
+categories: century x
 keywords: Geneva
 ---
 Before his father the child will be killed,  
