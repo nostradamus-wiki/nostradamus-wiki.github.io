@@ -1,15 +1,26 @@
 # Nostradamus.Wiki
 
-Theme `Marat` by: John Coene
+## 1. Save ourselves
 
-1. Adapt the `_config.yml` file
-2. Delete the posts
-3. Change `about.md`
-4. Change or add your links in the `nav.yml` file located in the `_data` folder
-5. Replace the `favicon.ico`
-6. Customise the `404.md` page in the root directory
-6. Run `bundle exec jekyll serve --watch`
-7. Enlighten the masses!
+## 2. Help each other
+
+## 3. Rebuild our homeland
+
+### Our Builders!
+
+Including but not limited to the following:
+
+---
+1. Theme by
+* [John Coene](https://github.com/JohnCoene)
+
+2. Posts by
+* [Citizen-2](https://github.com/nostradamus-wiki)
+
+---
+Theme:
+
+* [marat](https://github.com/JohnCoene/marat)
 
 Plugins:
 
