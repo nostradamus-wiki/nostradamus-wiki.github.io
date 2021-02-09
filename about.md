@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 # Nostradamus
-Michel de Nostredame, usually Latinised as Nostradamus, was a French astrologer, physician and reputed seer, who is best known for his book **[Les Prophéties](https://www.nostradamus.wiki)**, a collection of 942 poetic quatrains allegedly predicting future events. The book was first published in 1555.
+Michel de Nostredame, usually Latinised as Nostradamus, was a French astrologer, physician and reputed seer, who is best known for his book<br>
+**[Les Prophéties](https://www.nostradamus.wiki)**, a collection of 942 poetic quatrains allegedly predicting future events. The book was first published in 1555.
 
 * 1531:	In 1531 Nostradamus was invited by Jules-César Scaliger, a leading Renaissance scholar, to come to *Agen*.  
 * 1534:	In 1534 his wife and children died, presumably from the plague.  
