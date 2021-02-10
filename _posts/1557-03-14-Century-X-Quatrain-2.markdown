@@ -2,7 +2,7 @@
 layout: post
 title:  "Century X Quatrain 2"
 author: Nostradamus
-date:   1557-03-14  00:01:48
+date:   1557-03-14 00:01:48  +0800
 categories: century x
 keywords: ship
 ---
