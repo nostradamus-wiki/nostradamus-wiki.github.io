@@ -2,7 +2,7 @@
 layout: post
 title:  "Century X Quatrain 1"
 author: Nostradamus
-date:   1557-03-14  00:01:49
+date:   1557-03-14 00:01:49  +0000
 categories: century x
 keywords: captives
 ---

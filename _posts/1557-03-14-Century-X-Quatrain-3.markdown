@@ -2,7 +2,7 @@
 layout: post
 title:  "Century X Quatrain 3"
 author: Nostradamus
-date:   1557-03-14 00:01:47 +0800
+date:   1557-03-14 00:01:47 +0000
 categories: century x
 keywords: Penelon
 ---
