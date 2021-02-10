@@ -26,6 +26,8 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://nostradamus-wiki.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 author: Nostradamus
 google_analytics: 
+sidebar: true
+
 
 # SEO
 twitter:
